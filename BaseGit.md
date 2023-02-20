@@ -63,7 +63,7 @@ La clé se trouve dans C:\Users\USER\.ssh\id_ed25519.pub
 
 Puis ajouter la clé sur git hub dans >personnal settings>ssh and gpg keys>new ssh key :
 
-![[./images/add_ssh_github.png]]
+![Alt text](/images/add_ssh_github.png)
 
 Pour pousser le fichier il faut ajouter le lien ssh git@github.com:UserName/RIPOSITORIE.git :
 
