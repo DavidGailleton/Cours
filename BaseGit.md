@@ -80,3 +80,8 @@ Une fois fait, il faut pousser le fichier sur Git Hub avec :
 ```shell
 git push -u origin nom_de_la_branch
 ```
+
+Pour cloner un repository il faut utiliser la commande :
+```shell
+git clone <liens_du_GITHUB>
+```
