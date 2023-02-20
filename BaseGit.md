@@ -74,7 +74,7 @@ git remote rm origin
 
 Ajouter le lien ssh :
 ```shell
-git remote add origin git@github.com:DavidGailleton/Cours.git
+git remote add origin git@github.com:UserName/RIPOSITORIE.git
 ```
 
 Une fois fait, il faut pousser le fichier sur Git Hub avec :
